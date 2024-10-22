@@ -1,4 +1,4 @@
-## KJU0811 
+## KIM JI UN
 
 <!--
 **kju0811/kju0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## WELL COME!
+## 지렁이 냠냠쩝쩝!
 
 <img src="https://github.com/KJU0811/kju0811/blob/output/github-contribution-grid-snake.svg"/>
 
